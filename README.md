@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola👋</h1>
+</div>
+<img src="https://i.imgur.com/qxvrZjJ.png">
 
-<!--
-**jroquehenriquez/jroquehenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa4-pNTVIJQxRx4eb99W_MA?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/jroquehenriquez?style=social)](https://github.com/jroquehenriquez)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Médico Cirujano 
+- Epidemiólogo clínico
+- Bioestadístico 
+- ✏️ Te enseño los conceptos fundamentales en la elaboración, ejecución y difusión de un proyecto de investigación en salud con enfoque cuantitativo en [Youtube](https://youtube.com/@jroquehenriquez?sub_confirmation=1)
+<br>
