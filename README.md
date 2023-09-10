@@ -13,3 +13,11 @@
 - Bioestadístico 
 - ✏️ Te enseño los conceptos fundamentales en la elaboración, ejecución y difusión de un proyecto de investigación en salud con enfoque cuantitativo en [Youtube](https://youtube.com/@jroquehenriquez?sub_confirmation=1)
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jroquehenriquez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jroquehenriquez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
