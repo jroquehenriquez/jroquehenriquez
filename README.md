@@ -1,8 +1,5 @@
 <div align="center">
-<h1 align="center">¡Hola investigadores!👋
-
-jroquehenriquez@gmail.com
-</h1>
+<h1 align="center">¡Hola investigadores!👋</h1>
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa4-pNTVIJQxRx4eb99W_MA?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
