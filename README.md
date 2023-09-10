@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">¡Hola investigadores!👋
 
-### jroquehenriquez@gmail.com
+jroquehenriquez@gmail.com
 </h1>
 </div>
 
