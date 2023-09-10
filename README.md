@@ -1,7 +1,6 @@
 <div align="center">
-<h1 align="center">Hola👋</h1>
+<h1 align="center">¡Hola investigadores!👋</h1>
 </div>
-<img src="https://i.imgur.com/EmAjQDq.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa4-pNTVIJQxRx4eb99W_MA?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/jroquehenriquez?style=social)](https://github.com/jroquehenriquez)
