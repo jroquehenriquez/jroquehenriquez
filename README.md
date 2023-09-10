@@ -10,7 +10,7 @@
 - Médico Cirujano 
 - Epidemiólogo clínico
 - Bioestadístico 
-- ✏️ Te enseño los conceptos fundamentales en la elaboración, ejecución y difusión de un proyecto de investigación en salud con enfoque cuantitativo en [Youtube](https://youtube.com/@jroquehenriquez?sub_confirmation=1)
+- 🎓Te enseño los conceptos fundamentales en la elaboración, ejecución y difusión de un proyecto de investigación en salud con enfoque cuantitativo en [Youtube](https://youtube.com/@jroquehenriquez?sub_confirmation=1)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
